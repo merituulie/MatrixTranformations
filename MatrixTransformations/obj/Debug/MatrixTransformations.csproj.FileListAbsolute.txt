@@ -1,0 +1,45 @@
+C:\Users\MartenS\Desktop\Minor\Computer Graphics Course\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\bin\Debug\MatrixTransformations.exe.config
+C:\Users\MartenS\Desktop\Minor\Computer Graphics Course\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\bin\Debug\MatrixTransformations.exe
+C:\Users\MartenS\Desktop\Minor\Computer Graphics Course\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\bin\Debug\MatrixTransformations.pdb
+C:\Users\MartenS\Desktop\Minor\Computer Graphics Course\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\obj\Debug\MatrixTransformations.csprojAssemblyReference.cache
+C:\Users\MartenS\Desktop\Minor\Computer Graphics Course\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\obj\Debug\MatrixTransformations.Form1.resources
+C:\Users\MartenS\Desktop\Minor\Computer Graphics Course\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\obj\Debug\MatrixTransformations.Properties.Resources.resources
+C:\Users\MartenS\Desktop\Minor\Computer Graphics Course\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\obj\Debug\MatrixTransformations.csproj.GenerateResource.cache
+C:\Users\MartenS\Desktop\Minor\Computer Graphics Course\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\obj\Debug\MatrixTransformations.exe
+C:\Users\MartenS\Desktop\Minor\Computer Graphics Course\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\obj\Debug\MatrixTransformations.pdb
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\CG - Lecture 2 - 0 - Sleketon start 2\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\bin\Debug\MatrixTransformations.exe.config
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\CG - Lecture 2 - 0 - Sleketon start 2\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\bin\Debug\MatrixTransformations.exe
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\CG - Lecture 2 - 0 - Sleketon start 2\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\bin\Debug\MatrixTransformations.pdb
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\CG - Lecture 2 - 0 - Sleketon start 2\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\obj\Debug\MatrixTransformations.Form1.resources
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\CG - Lecture 2 - 0 - Sleketon start 2\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\obj\Debug\MatrixTransformations.Properties.Resources.resources
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\CG - Lecture 2 - 0 - Sleketon start 2\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\obj\Debug\MatrixTransformations.csproj.GenerateResource.cache
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\CG - Lecture 2 - 0 - Sleketon start 2\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\obj\Debug\MatrixTransformations.exe
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\CG - Lecture 2 - 0 - Sleketon start 2\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\obj\Debug\MatrixTransformations.pdb
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\CG - Lecture 2 - 0 - Sleketon start 2\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\obj\Debug\MatrixTransformations.csprojAssemblyReference.cache
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\Workingprogress\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\bin\Debug\MatrixTransformations.exe.config
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\Workingprogress\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\bin\Debug\MatrixTransformations.exe
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\Workingprogress\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\bin\Debug\MatrixTransformations.pdb
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\Workingprogress\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\obj\Debug\MatrixTransformations.Form1.resources
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\Workingprogress\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\obj\Debug\MatrixTransformations.Properties.Resources.resources
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\Workingprogress\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\obj\Debug\MatrixTransformations.csproj.GenerateResource.cache
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\Workingprogress\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\obj\Debug\MatrixTransformations.exe
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\Workingprogress\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\obj\Debug\MatrixTransformations.pdb
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\Workingprogress\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\obj\Debug\MatrixTransformations.csprojAssemblyReference.cache
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\3.3.2020_workingprogress\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\bin\Debug\MatrixTransformations.exe.config
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\3.3.2020_workingprogress\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\bin\Debug\MatrixTransformations.exe
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\3.3.2020_workingprogress\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\bin\Debug\MatrixTransformations.pdb
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\3.3.2020_workingprogress\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\obj\Debug\MatrixTransformations.Form1.resources
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\3.3.2020_workingprogress\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\obj\Debug\MatrixTransformations.Properties.Resources.resources
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\3.3.2020_workingprogress\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\obj\Debug\MatrixTransformations.csproj.GenerateResource.cache
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\3.3.2020_workingprogress\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\obj\Debug\MatrixTransformations.exe
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\3.3.2020_workingprogress\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\obj\Debug\MatrixTransformations.pdb
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\3.3.2020_workingprogress\CG - Lecture 2 - 0 - Sleketon start\MatrixTransformations\obj\Debug\MatrixTransformations.csprojAssemblyReference.cache
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\TransformationWorking\Wokring Transformation\MatrixTransformations\bin\Debug\MatrixTransformations.exe.config
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\TransformationWorking\Wokring Transformation\MatrixTransformations\bin\Debug\MatrixTransformations.exe
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\TransformationWorking\Wokring Transformation\MatrixTransformations\bin\Debug\MatrixTransformations.pdb
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\TransformationWorking\Wokring Transformation\MatrixTransformations\obj\Debug\MatrixTransformations.csprojAssemblyReference.cache
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\TransformationWorking\Wokring Transformation\MatrixTransformations\obj\Debug\MatrixTransformations.Form1.resources
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\TransformationWorking\Wokring Transformation\MatrixTransformations\obj\Debug\MatrixTransformations.Properties.Resources.resources
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\TransformationWorking\Wokring Transformation\MatrixTransformations\obj\Debug\MatrixTransformations.csproj.GenerateResource.cache
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\TransformationWorking\Wokring Transformation\MatrixTransformations\obj\Debug\MatrixTransformations.exe
+C:\Users\Merit\Documents\School\Computer Graphics\week_3\TransformationWorking\Wokring Transformation\MatrixTransformations\obj\Debug\MatrixTransformations.pdb
